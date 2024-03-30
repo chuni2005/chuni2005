@@ -1,5 +1,5 @@
 ## Github Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinchen-8&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xinchen-8&show_icons=true&theme=dark)
 
 ## <center>  ABOUT ME
 Hi! nice to meet you~ I'm an INFJ in Taiwan and studying in NTUT-Csie.
