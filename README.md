@@ -1,5 +1,5 @@
 ## Github Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xinchen-8&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xinchen-8&show_icons=true&theme=transparent)
 
 ## <center>  ABOUT ME
 Hi! nice to meet you~ I'm an INFJ in Taiwan and studying in NTUT-Csie.
@@ -13,7 +13,7 @@ Focus on learning 'machine learning', If you want to talk to me about modern tec
 ## <center>  Usual Language
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinchen-8&layout=compact&&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinchen-8&layout=compact&&theme=transparent)
 
 ## <center>  Usual Tools
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio)]()
