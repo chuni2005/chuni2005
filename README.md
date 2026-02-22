@@ -4,14 +4,10 @@
 ## NOTES
  - Practical Notes
    - [**LeetCode Practice Note**](https://hackmd.io/@chuni2005/HJ1-SH1Sbx) - *doing*
-   - [**picoCTF Writeups**]() - *redo planned*
+   - [**picoCTF Writeups**]() - *redoing*
  - Academic Notes
+   - [**Linear Algebra**]() — *redo planned*
    - [**Machine Learning Notes**]() — *redo planned*
-
-## STATUS
-<img src="https://github-readme-stats.vercel.app/api?username=chuni2005&show_icons=true&theme=radical" width="400"></img>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuni2005&layout=compact&theme=radical)
-
 
 ## ABOUT ME
   [![mail_icon](https://skillicons.dev/icons?i=gmail&theme=dark)](https://mail.google.com/mail/u/1/#all?compose=DmwnWrRlQHWgkXtHQHLVVtJFqgJLwjpkJcpsgqQWsSGhRDClVDwgcRpBccqPvKGTsjBcgPqhrCFV)
