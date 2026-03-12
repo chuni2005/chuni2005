@@ -1,11 +1,12 @@
-# CHUNI IS A NOODLE
-  A noodle.
+# C.H.U.N.I.
+  Chuni Has Unusable Noodle Intelligence.
 
 ## NOTES
  - Practical Notes
-   - [**LeetCode Practice Note**](https://hackmd.io/@chuni2005/HJ1-SH1Sbx) - *doing*
+   - [**LeetCode Practice Note**](https://hackmd.io/@chuni2005/leetcode) - *doing*
    - [**picoCTF Writeups**]() - *redoing*
  - Academic Notes
+   - [**Pattern-Oriented Software Design**](https://hackmd.io/@chuni2005/CSIE-POSD) - *doing*
    - [**Linear Algebra**]() — *redo planned*
    - [**Machine Learning Notes**]() — *redo planned*
 
